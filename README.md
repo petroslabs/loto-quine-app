@@ -29,3 +29,7 @@ is loaded from the network, so it works with no internet access at all.
 No framework, no dependencies, no build tooling: for a tool that needs to reliably run
 offline on a random laptop connected to a projector, a plain static file is the simplest
 thing that can't break.
+
+## License
+
+[MIT](LICENSE)
